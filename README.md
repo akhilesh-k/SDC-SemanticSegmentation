@@ -1,4 +1,4 @@
-## Semantic Segmentation for Self Drviving Car 
+## Semantic Segmentation for Self Driving Car 
 >Advanced Deep Learning project
 
 
@@ -48,3 +48,16 @@ Loss per batch tends to average below 0.200 after two epochs and below 0.100 aft
 Download the [Kitti Road dataset](http://www.cvlibs.net/datasets/kitti/eval_road.php) from [here](http://www.cvlibs.net/download.php?file=data_road.zip).  Extract the dataset in the `data` folder.  This will create the folder `data_road` with all the training a test images.
 
 Download the [CityScapes dataset](https://www.cityscapes-dataset.com/)
+
+### Output
+
+**KITTI Dataset**
+
+
+![sample1](./Outputs/countryside.png)
+![sample2](./Outputs/lane.png)
+
+
+**CityScape Dataset**
+
+![sample2](./Outputs/dash.png)
